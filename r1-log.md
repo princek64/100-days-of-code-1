@@ -29,9 +29,23 @@ Learned about let, const, arrow functions, Rest Parameter, Spread Operator, and 
 Completed 15/31 exercises 👨🏻‍💻
 
 ### R1D5
-
+Completed "JavaScript ES6" on @freeCodeCamp
+.
+Learned about Template literals, Classes, getters, setters, export, import, and Promises
+Completed 31/31 exercises 👨🏻‍💻
 
 ### R1D6
-
+Learning "Regular Expressions" on @freeCodeCamp
+.
+Completed 20/33 exercises 👨🏻‍💻
 
 ### R1D7
+Completed Regular Expressions & Debugging exercises on @freeCodeCamp 👨🏻‍💻
+
+### R1D8
+
+
+### R1D9
+
+
+### R1D10
