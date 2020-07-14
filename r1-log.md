@@ -59,10 +59,38 @@ Completed "Basic Algorithm Scripting" on @freeCodeCamp
 .
 Completed 16/16 exercises 👨🏻‍💻
 
-### R1D12
+### R1D12-13
+Day 12 - 13: Completed "Object Oriented Programming" on @freeCodeCamp 👨🏻‍💻
+.
+Learned about this keyword, Constructor, Prototype, closure, IIFE...
 
+### R1D14-15-16
+Day 14 -15-16 : Completed "Functional Programming" on @freeCodeCamp 👨🏻‍💻
+.
+Learned about functions method: map, filter, slice, splice, concat, reduce,  sort, split, join...
 
-### R1D13
+### R1D17
+Made an Analog Clock using JavaScript, HTML & CSS 👨🏻‍💻
 
+### R1D18
+Made a responsive 404 Not Found page as a part of Dev Challenges 👨🏻‍💻
 
-### R1D14
+### R1D19
+Made a responsive My Team Page using CSS Grid and Flexbox as a part of Dev Challenges 
+.
+Completed CSS Flexbox and Grid on @freeCodeCamp 👨🏻‍💻
+
+### R1D20
+Made a responsive Interior Consultant Homepage with collapsed navigation on mobile view using CSS Grid and 
+Flexbox as a part of Dev Challenges 👨🏻‍💻
+
+### R1D21
+Made a Flex Panel Image Gallery using JavaScript, HTML & CSS Flexbox 👨🏻‍💻
+
+### R1D22-23-24
+Completing JavaScript "Intermediate Algorithm Scripting" section on @freeCodeCamp 👨🏻‍💻
+
+### R1D25
+Completed JavaScript "Intermediate Algorithm Scripting" section on @freeCodeCamp 👨🏻‍💻
+
+### R1D26
